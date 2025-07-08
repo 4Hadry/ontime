@@ -35,16 +35,15 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Desktop CTAs */}
         <div className="hidden md:flex items-center space-x-4">
           <Link href="#" className="text-gray-700 hover:text-teal-600">
-            Sign&nbsp;In
+            Sign In
           </Link>
           <Link
             href="#"
             className="rounded-full bg-teal-500 px-6 py-2 text-white hover:bg-teal-600 transition"
           >
-            Get&nbsp;Started
+            Get Started
           </Link>
         </div>
 

@@ -24,7 +24,7 @@ export default function WebinarBanner() {
             </span>
           </div>
           <span className="text-xs sm:text-sm text-gray-500 block mt-0.5">
-            11:00 am GMT+7 · 27 March 2021
+            11:00 am GMT+7 · 27 March 2021
           </span>
         </div>
       </div>

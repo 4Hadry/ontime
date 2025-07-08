@@ -16,7 +16,7 @@ export default function MobileMenu({ links }: Props) {
           href="#"
           className="block rounded-full bg-teal-500 px-4 py-2 text-center text-white"
         >
-          Get&nbsp;Started
+          Get Started
         </Link>
       </div>
     </nav>
