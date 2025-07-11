@@ -1,4 +1,4 @@
-import EmailSignup from "./EmailSignup";
+import IpTracker from "./IpTracker";
 import WebinarBanner from "./WebinarBanner";
 import Image from "next/image";
 
@@ -17,7 +17,7 @@ export default function HeroSection() {
             Ontime is a most popular time tracking company in the world, so
             everyone can focus on the work that matters.
           </p>
-          <EmailSignup />
+          <IpTracker />
           <WebinarBanner />
         </div>
 
