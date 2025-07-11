@@ -61,16 +61,16 @@ export default function EmailSignup() {
           ) : (
             <div className="space-y-1 text-sm">
               <div>
-                <strong>IP:</strong> {location.ip}
+                <strong>IP:</strong> {location?.ip}
               </div>
               <div>
-                <strong>City:</strong> {location.city}
+                <strong>City:</strong> {location?.city}
               </div>
               <div>
-                <strong>Region:</strong> {location.region}
+                <strong>Region:</strong> {location?.region}
               </div>
               <div>
-                <strong>Country:</strong> {location.country}
+                <strong>Country:</strong> {location?.country}
               </div>
             </div>
           )}
